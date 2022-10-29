@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **npratyush007@gmail.com**
 - 📝 I regularly write articles on **[Hashnode](https://pratyushkk.hashnode.dev/)**
-- 👨‍💻 Portfolio **[Click Here](https://pratyushkk.vercel.app/)**
+- 👨‍💻 Portfolio **[Click Here](https://pratyushkk.in/)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pratyushkknayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratyushkknayak/" height="30" width="40" /></a>
