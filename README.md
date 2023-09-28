@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratyush</h1>
-<h3 align="center">A passionate javascript developer from India</h3>
+<h3 align="center">A passionate coder from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif?cid=ecf05e477q4b93kjj5jt8ev8a6vs96s6478yp5ezwvesvbaa&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning in **FSJS-Bootcamp iNeuron**
+- 🌱 I’m currently learning **Shopify Development**
 
 - 📫 How to reach me **npratyush007@gmail.com**
 - 📝 I regularly write articles on **[Hashnode](https://pratyushkk.hashnode.dev/)**
