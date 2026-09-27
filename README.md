@@ -2,16 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=06b6d4,3b82f6,8b5cf6&height=220&section=header&text=Pratyush%20K%20Nayak&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20•%20Open-Source%20Builder&descAlignY=55&descFontSize=20" width="100%" alt="Pratyush K Nayak Header Banner" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/pratyushkk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+UltraWide+Video+Fill+Pro+🎬;Creating+performant+web+apps+%26+tools+⚡;Exploring+WebGPU,+Extensions,+%26+Android+🚀;Writing+about+software+on+Hashnode+✍️" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <b>Building high-performance browser extensions, modern web applications, and Android tools.</b>
+</p>
 
 <p align="center">
-  <a href="https://pratyushkk.in/"><img src="https://img.shields.io/badge/Portfolio-pratyushkk.in-0ea5e9?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/pratyushkknayak/"><img src="https://img.shields.io/badge/LinkedIn-Pratyush_K_Nayak-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://microsoftedge.microsoft.com/addons/detail/ultrawide-video-fill-pro/kllbjjefnjodgoaglaghcakajfbjmpnm"><img src="https://img.shields.io/badge/Edge_Add--ons-UltraWide_Video_Fill_Pro-0078d7?style=flat-square&logo=microsoftedge&logoColor=white" alt="Edge Add-ons" /></a>
+  <a href="https://pratyushkk.github.io/ultrawide-video-fill-pro-site/"><img src="https://img.shields.io/badge/Showcase_Site-Live_Web_App-06b6d4?style=flat-square&logo=googlechrome&logoColor=white" alt="Showcase Site" /></a>
   <a href="https://pratyushkk.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-Hashnode-2962ff?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
   <a href="mailto:npratyush007@gmail.com"><img src="https://img.shields.io/badge/Email-npratyush007%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -74,16 +71,16 @@ Hey there! I'm **Pratyush K Nayak**, a software engineer and builder based in In
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🌐 Personal Portfolio</h3>
-      <p>Modern developer portfolio showcasing creative works, responsive design principles, and full-stack software development experience.</p>
+      <h3 align="left">🌐 UltraWide Pro Showcase Site</h3>
+      <p>Interactive marketing and demonstration web application with glassmorphic UI, real-time video aspect ratio simulator, and zero telemetry.</p>
       <p>
-        <a href="https://pratyushkk.in/"><b>🔗 Live Website</b></a> •
-        <a href="https://github.com/pratyushkk/react-portfolio"><b>💻 Source</b></a>
+        <a href="https://pratyushkk.github.io/ultrawide-video-fill-pro-site/"><b>🌐 Live Site</b></a> •
+        <a href="https://github.com/pratyushkk/ultrawide-video-fill-pro-site"><b>💻 Source</b></a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -160,14 +157,12 @@ Hey there! I'm **Pratyush K Nayak**, a software engineer and builder based in In
 
 ### 🤝 Let's Connect
 
-Feel free to connect or reach out for inquiries, discussions, or collaborative projects!
+Feel free to reach out for inquiries, discussions, or collaborative open-source projects!
 
 <p align="center">
-  <a href="https://pratyushkk.in/"><img src="https://img.shields.io/badge/Personal_Portfolio-0ea5e9?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/pratyushkknayak/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/pratyushkk"><img src="https://img.shields.io/badge/GitHub-pratyushkk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://pratyushkk.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode_Blog-2962ff?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
-  <a href="https://www.instagram.com/pratyushkk.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:npratyush007@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:npratyush007@gmail.com"><img src="https://img.shields.io/badge/Send_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <div align="center">
